@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-mongodb",
+  "version": "1.0.0",
+  "description": "A simple nodejs application to store and retrieve data from mongodb",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mongodb",
+    "nodejs"
+  ],
+  "author": "Vidhya",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.5"
+  }
+}
