@@ -1,7 +1,7 @@
 
 ##post 
 
-localhost:3000/object
+https://vast-ocean-64520.herokuapp.com/object
 
 body:
  {
@@ -14,17 +14,17 @@ body:
 
 ## get by key
 
-localhost:3000/object/101
+https://vast-ocean-64520.herokuapp.com/object/101
 
 
 
 ## get by key and timestamp
 
-localhost:3000/object/100?timestamp=1511827466000
+https://vast-ocean-64520.herokuapp.com/object/100?timestamp=1511827466000
 
 
 ## get - all values from db
-localhost:3000/object/
+https://vast-ocean-64520.herokuapp.com/object/
 
 ## get -welcome message
-localhost:3000/
+https://vast-ocean-64520.herokuapp.com/
